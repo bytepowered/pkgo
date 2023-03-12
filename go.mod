@@ -1,3 +1,3 @@
-module github.com/bytepowered/pkg
+module github.com/bytepowered/pkgo
 
 go 1.20
